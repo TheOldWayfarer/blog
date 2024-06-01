@@ -1,0 +1,4 @@
+[submodule "theoldworldjourneyblog/public"]
+	path = theoldworldjourneyblog/public
+	url = https://github.com/TheOldWayfarer/theoldworldjourney.github.io.git
+	branch = main
