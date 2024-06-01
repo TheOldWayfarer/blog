@@ -1,0 +1,8 @@
+baseURL = 'https://theoldworldjourney.github.io/'
+languageCode = 'en-us'
+title = 'The Old World Journey'
+theme = "paperesque"
+
+[[params.menu]]
+  name = "blog"
+  url = "posts/"
