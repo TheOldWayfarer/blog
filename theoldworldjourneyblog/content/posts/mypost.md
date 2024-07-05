@@ -5,7 +5,7 @@ tags:
 - The Old World
 ---
 {{< figure
-  src="artwork_front_page.jpg"
+  src="/images/my_post/artwork_front_page.jpg"
   class="small"
   caption="Admittedly, not the best picture, but you can still appreciate the artwork"
 >}}
@@ -41,7 +41,7 @@ So, I followed along, watching the releases and keeping a distance for months, b
 * Not elves.
 
 {{< figure
-  src="factions_list.jpg"
+  src="/images/my_post/factions_list.jpg"
   class="small"
   caption="You can see the factions here, these don't even include the very valid legacy factions"
 >}}
@@ -51,7 +51,7 @@ So these first two points took out the legacy factions and of course the Elves. 
 
 
 {{< figure
-  src="old_world_map.jpg"
+  src="/images/my_post/old_world_map.jpg"
   class="small"
   caption="Look at how vast this map is"
 >}}
